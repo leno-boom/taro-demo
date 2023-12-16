@@ -1,0 +1,2 @@
+export const TAGS = ['Romantic', 'Fiction', 'Love story', 'Love story', 'Fiction', 'Romantic', 'Fiction', 'Love story', 'Love story', 'Fiction']
+export const CATEGORY = ['Time travel', 'RPG', 'Science Fiction', 'Fantasy']
